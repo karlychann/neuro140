@@ -1,0 +1,2 @@
+## 
+I am interested in improving current ML models that use features extracted from audio recordings to detect unilateral vocal fold paralysis, which is the paralysis of one of the vocal cords. I am interested in whether the model would be improved by using different model architecture, like Support Vector Machines (SVMs) and Extreme Gradient Boost (XGBoost) and extracting additional features like speech rate and XCORR, features that capture the changes in mobility associated with patients with unilateral vocal fold paralysis.
